@@ -8,6 +8,7 @@ A Basic-HTML-Website by Dev-Hassaan
 
 ## Screenshot
 
+<img width="1918" height="1068" alt="image" src="https://github.com/user-attachments/assets/d7a43093-79da-480b-b52c-b5dd89a5ed34" />
 
 
 ## Requirements Checklist:
